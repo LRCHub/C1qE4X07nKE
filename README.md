@@ -1,0 +1,40 @@
+# Rei – GUITARHOLIC
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+胸の真ん中 空いた穴から
+溢れる本音 聴いてほしい
+指板の上で 暴れる本能
+ハーモニクス 究極の therapy
+寂しがり屋の僕のそばに
+抱きしめられる存在が必要です
+"Ms.Rei? It's show time"
+GIMME BASS
+GIMME A LITTLE RHYTHM AND A BOOM BOOM,DRUMS
+GIMME A TIKI-TIKI TA-TAKA-TATA ON THE HI-HAT
+SING 僕の本性 引きずり出せるのは
+MY GUITAR TAR-TA TARTAR TAR-TA TARTAR
+MY GUITAR-TAR MY GUITAR-TAR
+TARTA-TAR-TAR TARTA-TAR-TAR
+GUITARHOLIC
+指の隙間で 糸が震える
+錆びた愛は 切ってしまうべき
+歪ませた音 透き通る音
+やがては消える アウトロの後に
+誠実な僕のゆがんだ愛に
+応えてくれる存在はどこ?
+"On stage… 3,2,0"
+GIMME BASS
+GIMME A STRATOCASTER AND A WAH-WAH, DRUMS
+GIMME A TIKI-TIKI TA-TAKA-TATA ON THE HI-HAT
+SING 音楽は裏切らないから PLAY
+MY GUITAR-TA TARTAR TAR-TA TARTAR
+MY GUITAR
+I DON'T NEED ANYBODY IF YOU'RE HERE…
+GIMME BASS 憂鬱 吹き飛ばす BOOM BOOM, DRUMS
+GIMME A TIKI-TIKI TA-TA-TA ON THE HI-HAT
+SING 僕の本性 引きずり出せるのは
+MY GUITAR TAR-TA TARTAR TAR-TA TARTAR x3
+GUITARHOLICGUITARHOLIC
+```
