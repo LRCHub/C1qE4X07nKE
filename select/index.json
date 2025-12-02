@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "GUITARHOLIC",
+  "base_artist": "Rei",
+  "createdAt": "2025-12-02T19:16:32.983113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GUITARHOLIC",
+      "artist": "Rei",
+      "has_synced": false,
+      "path": "select/pl_01_GUITARHOLIC_Rei.txt"
+    }
+  ]
+}
